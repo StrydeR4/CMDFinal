@@ -4,6 +4,7 @@ TripMate is a modern Flutter Web travel planning application built as a universi
 The application allows users to explore destinations, save favorites, book trips, and manage travel plans using a responsive interface and real API integration.
 
 Name: Ruslan Dussenbayev
+
 Group: SE-2434
 ---
 
